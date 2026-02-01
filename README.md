@@ -37,7 +37,7 @@ I am **Mohit Sharma**, a B.Tech student passionate about engineering, simulation
 I enjoy working on projects that combine mathematical modeling with practical system implementation.  
 Currently learning **Java with Data Structures and Algorithms**, and exploring **AI, ML, and data analytics** for industrial and research applications.
 
-Email: mohitshharma@gmail.com  
+Email: mohitshermah@gmail.com  
 Phone: +91 7229822608  
 LinkedIn: [https://www.linkedin.com/in/mohit-sharma-6223793a0/](https://www.linkedin.com/in/mohit-sharma-6223793a0/)  
 GitHub: [https://github.com/MOHITSHHARRMA](https://github.com/MOHITSHHARRMA)
